@@ -183,38 +183,6 @@ pip install -r requirements.txt
 
 ---
 
-# Training
-
-```bash
-python training/train.py
-```
-
----
-
-# Inference
-
-```bash
-python inference/predict.py
-```
-
----
-
-# Explainability
-
-Generate SHAP explanations
-
-```bash
-python xai/shap_analysis.py
-```
-
-Generate LIME explanations
-
-```bash
-python xai/lime_analysis.py
-```
-
----
-
 # Performance Metrics
 
 The framework evaluates:
